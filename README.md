@@ -134,15 +134,15 @@ Higher income customers disproportionately contribute to premium categories such
 
 ### 1. Customer Persona Analytics
 
-![Customer Persona Analytics](docs/images/Customer Persona Analytics.png)
+![Customer Persona Analytics](docs/images/customer-persona-analytics.png)
 
 ### 2. Category & Age-Based Customer Insights
 
-![Category & Age-Based Insights](docs/images/Category & age based customer insights.png)
+![Category & Age-Based Customer Insights](docs/images/category-age-customer-insights.png)
 
 ### 3. Customer Persona Intelligence
 
-![Customer Persona Intelligence](docs/images/Customer Persona Intelligence.png)
+![Customer Persona Intelligence](docs/images/customer-persona-intelligence.png)
 
 ---
 
