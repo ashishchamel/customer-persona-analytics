@@ -194,6 +194,12 @@ https://public.tableau.com/app/profile/ashish.chamel
 
 ---
 
+## Slideshare 
+
+https://www.slideshare.net/slideshow/customer-revenue-intelligence-rfm-segmentation-retail-kpi-analytics-sql-python-tableau/288581297
+
+---
+
 ## Author
 
 Ashish Chamel  
